@@ -1,6 +1,8 @@
 # football-scouting-v2
 
-Sistem football-scouting-v2 dapat **mendeteksi player (beserta warna jersey), bola, dan ball possession** menggunakan model **Yolov8**.
+![0b1495d3_1 output](https://github.com/maldiharyojudanto/football-scouting-v2/assets/76139419/bbb217a7-5226-42aa-a070-4677c9b6f8d1)
+
+Sistem football-scouting-v2 dapat **mendeteksi player (beserta warna jersey), bola, dan ball possession** menggunakan model **Yolov8** dan traditional rule based.
 
 ## Keterangan file .py :
 1. File 'main.py' adalah untuk deteksi objek player dan ball
