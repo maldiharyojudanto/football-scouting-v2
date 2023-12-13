@@ -121,6 +121,6 @@ Sistem football-scouting-v2 dapat **mendeteksi player (beserta warna jersey), bo
 
 ## Output (contoh) : [di sini](https://drive.google.com/drive/folders/1ZMHMoCTyfX0gP7io4abAmOvHOJi87Gj2?usp=sharing)
 
-Bandung, 7 Desember 2023
+Bandung, 10 Desember 2023
 
 Aldi ❤️ Made with heart
